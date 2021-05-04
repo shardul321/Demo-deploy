@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.maindiv {
+  /* background: #282c34; */
+  width: "max-content";
+  margin: auto;
+  padding: 5;
+  border-radius: 5;
+  margin-top: 10;
+  align-self: "center";
+}
+.homepage{
+  background-color: antiquewhite;
+}
