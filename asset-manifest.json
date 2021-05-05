@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Demo-deploy/static/css/main.0421924b.chunk.css",
-    "main.js": "/Demo-deploy/static/js/main.f951310f.chunk.js",
-    "main.js.map": "/Demo-deploy/static/js/main.f951310f.chunk.js.map",
+    "main.css": "/Demo-deploy/static/css/main.fbd35035.chunk.css",
+    "main.js": "/Demo-deploy/static/js/main.132bbace.chunk.js",
+    "main.js.map": "/Demo-deploy/static/js/main.132bbace.chunk.js.map",
     "runtime-main.js": "/Demo-deploy/static/js/runtime-main.9e1719cb.js",
     "runtime-main.js.map": "/Demo-deploy/static/js/runtime-main.9e1719cb.js.map",
     "static/js/2.9df2d5e3.chunk.js": "/Demo-deploy/static/js/2.9df2d5e3.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.51768d49.chunk.js": "/Demo-deploy/static/js/3.51768d49.chunk.js",
     "static/js/3.51768d49.chunk.js.map": "/Demo-deploy/static/js/3.51768d49.chunk.js.map",
     "index.html": "/Demo-deploy/index.html",
-    "static/css/main.0421924b.chunk.css.map": "/Demo-deploy/static/css/main.0421924b.chunk.css.map",
+    "static/css/main.fbd35035.chunk.css.map": "/Demo-deploy/static/css/main.fbd35035.chunk.css.map",
     "static/js/2.9df2d5e3.chunk.js.LICENSE.txt": "/Demo-deploy/static/js/2.9df2d5e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9e1719cb.js",
     "static/js/2.9df2d5e3.chunk.js",
-    "static/css/main.0421924b.chunk.css",
-    "static/js/main.f951310f.chunk.js"
+    "static/css/main.fbd35035.chunk.css",
+    "static/js/main.132bbace.chunk.js"
   ]
 }
